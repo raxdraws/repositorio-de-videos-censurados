@@ -12,3 +12,5 @@ Fragmentos de Clips de varios que no han pasado la verificacion de Youtube, ya s
 Dichos clips tambien pueden ser sacados en la edicion del video por considerarse fuertes o no apropiados para cierto publico
 Mi intencion al crear contenido es el de entretener e informar, pero hay veces que me paso de la raya con lo que creo
 Por algo cree este repositorio, para que la gente pueda descargar y ver los videos censurados o borrados con o sin razon
+
+LES SUGIERO QUE NO RESUBAN LOS VIDEOS, PORQUE YOUTUBE PUEDE CENSURARLOS O DARLES UN STRIKE POR COMPARTIR CONTENIDO FUERTE
